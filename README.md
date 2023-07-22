@@ -1,49 +1,42 @@
-### Hi there 👋 Yo! 🤙 Santosh Gaire here, engineering dreams into reality with lines of code! 💻
+[![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)](https://github.com/santosh-2003)
+<h1 align="center">Hi 👋, I'm Santosh Gaire here, engineering dreams into reality with lines of code! 💻</h1>
+<h3 align="center">A Tech Enthusiastic Web Developer and Programmer from Nepal!</h3>
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" />
 
-<!--
-**santosh-2003/santosh-2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=santosh-2003&label=Profile%20views&color=0e75b6&style=flat" alt="santosh-2003" /> </p>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **expanding my coding knowledge and skills.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **DSA in C++ and Full stack development.**
 
-A Tech Enthusiastic Web Developer and Programmer from Nepal!
+- 👯 I’m looking to collaborate on **on beginner-friendly open-source projects**
 
--🔭 I’m currently working on expanding my coding knowledge and skills.
+- 🤝 I’m looking for help with **understanding Git and version control.**
 
--🌱 I’m currently learning DSA in C++ and Full stack development.
+- 💬 Ask me about **my favorite coding challenges and projects.**
 
--👯 I’m looking to collaborate on beginner-friendly open-source projects.
+- 📫 How to reach me **Feel free to email me at gaire.2002@gmail.com.**
 
--🤔 I’m looking for help with understanding Git and version control.
+- 😄 Pronouns: **He/Him.**
 
--💬 Ask me about my favorite coding challenges and projects.
+- ⚡ Fun fact **1) I love solving puzzles and riddles in my free time.**
+  
+- ⚡ Fun fact **2) I also create contents.**
 
--📫 How to reach me: Feel free to email me at gaire.2002@gmail.com.
 
--😄 Pronouns: He/Him
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/santosh-gaire-578813234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santosh-gaire-578813234" height="30" width="40" /></a>
+<a href="https://fb.com/santosh.gaire.125" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="santosh.gaire.125" height="30" width="40" /></a>
+<a href="https://instagram.com/__its_santos__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__its_santos__" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/santosh gaire" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="santosh gaire" height="30" width="40" /></a>
+</p>
 
--⚡ Fun fact: 1) I love solving puzzles and riddles in my free time .
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
--⚡ Fun fact: 2) I alos create content .
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=santosh-2003&show_icons=true&locale=en&layout=compact" alt="santosh-2003" /></p>
 
-Connect with me : 
-### Contact Me 📫
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=santosh-2003&show_icons=true&locale=en" alt="santosh-2003" /></p>
 
-[<img src="social_icons/linkedin.png" height="30" width="30" alt="LinkedIn">](https://www.linkedin.com/in/santosh-gaire-578813234/)
-&nbsp;
-[<img src="social_icons/twitter.png" height="30" width="30" alt="Twitter">](https://twitter.com/your_social_media_username)
-&nbsp;
-[<img src="social_icons/github.png" height="30" width="30" alt="GitHub">](https://github.com/santosh-2003)
-&nbsp;
-[<img src="social_icons/instagram.png" height="30" width="30" alt="Instagram">](https://www.instagram.com/__its_santos__/)
-&nbsp;
-[<img src="social_icons/facebook.png" height="30" width="30" alt="Facebook">](https://www.facebook.com/santosh.gaire.125/)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=santosh-2003&" alt="santosh-2003" /></p>
