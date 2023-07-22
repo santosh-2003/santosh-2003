@@ -38,12 +38,12 @@ A Tech Enthusiastic Web Developer and Programmer from Nepal!
 Connect with me : 
 ### Contact Me 📫
 
-[<img src="social_icons/linkedin.png" height="30" width="30" alt="LinkedIn">](https://www.linkedin.com/in/your_social_media_username/)
+[<img src="social_icons/linkedin.png" height="30" width="30" alt="LinkedIn">](https://www.linkedin.com/in/santosh-gaire-578813234/)
 &nbsp;
 [<img src="social_icons/twitter.png" height="30" width="30" alt="Twitter">](https://twitter.com/your_social_media_username)
 &nbsp;
-[<img src="social_icons/github.png" height="30" width="30" alt="GitHub">](https://github.com/your_social_media_username)
+[<img src="social_icons/github.png" height="30" width="30" alt="GitHub">](https://github.com/santosh-2003)
 &nbsp;
-[<img src="social_icons/instagram.png" height="30" width="30" alt="Instagram">](https://www.instagram.com/your_social_media_username/)
+[<img src="social_icons/instagram.png" height="30" width="30" alt="Instagram">](https://www.instagram.com/__its_santos__/)
 &nbsp;
-[<img src="social_icons/facebook.png" height="30" width="30" alt="Facebook">](https://www.facebook.com/your_social_media_username/)
+[<img src="social_icons/facebook.png" height="30" width="30" alt="Facebook">](https://www.facebook.com/santosh.gaire.125/)
