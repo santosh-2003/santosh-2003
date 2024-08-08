@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **expanding my coding knowledge and skills.**
 
-- 🌱 I’m currently learning **DSA in C++ and Full stack development.**
+- 🌱 I’m currently learning **Python and web scraping.**
 
 - 👯 I’m looking to collaborate on **on beginner-friendly open-source projects**
 
