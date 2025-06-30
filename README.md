@@ -1,4 +1,7 @@
-[![MasterHead](https://media.giphy.com/media/fmkYSBlJt3XjNF6p9c/giphy.gif)](https://github.com/santosh-2003)
+<!--[![MasterHead](https://media.giphy.com/media/fmkYSBlJt3XjNF6p9c/giphy.gif)](https://github.com/santosh-2003) -->
+<div align="center">
+  <img src="assets/github_profile_dataEngineer.png" alt="Santosh Gaire Banner" style="width: auto; height: 480px;" />
+</div>
 
 <h1 align="center">Hi 👋, I'm Santosh Gaire here, engineering dreams into reality with lines of code! 💻</h1>
 <h3 align="center">A Tech Enthusiastic Web Developer and Aspiring Data Engineer from Nepal!</h3>
