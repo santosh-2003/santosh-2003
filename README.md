@@ -1,4 +1,4 @@
-[![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)](https://github.com/santosh-2003)
+[![MasterHead]([https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWhjejl0ZHIzaWh5NnBlb2ZvN2luMWx0NHJ5eHNxa2tlY2l4c3IwMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/fmkYSBlJt3XjNF6p9c/giphy.gif))](https://github.com/santosh-2003)
 <h1 align="center">Hi 👋, I'm Santosh Gaire here, engineering dreams into reality with lines of code! 💻</h1>
 <h3 align="center">A Tech Enthusiastic Web Developer and Programmer from Nepal!</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" />
